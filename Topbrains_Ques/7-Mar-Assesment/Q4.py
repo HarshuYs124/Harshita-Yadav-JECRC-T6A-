@@ -8,4 +8,4 @@ class Solution:
             if products.count(p) == 1:
                 result.append(p)
 
-        return result
+        return result 
